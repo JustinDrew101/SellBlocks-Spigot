@@ -1,0 +1,7 @@
+items:
+  SOUL_SAND:
+    price: 5
+  DIAMOND:
+    price: 10
+  IRON_INGOT:
+    price: 3
